@@ -33,9 +33,9 @@ def run_demo():
 
 	dispose_frames_for_stablisation = 30  # frames
 
-	chessboard_width = 6 # squares
-	chessboard_height = 9 	# squares
-	square_size = 0.0253 # meters
+	chessboard_width = 5 # squares
+	chessboard_height = 7 	# squares
+	square_size = 0.010 # meters
 
 	try:
 		# Enable the streams from all the intel realsense devices
